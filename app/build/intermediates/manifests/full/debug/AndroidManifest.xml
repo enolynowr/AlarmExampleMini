@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.alarmexample70821"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+
+        <!-- 인트로 -->
+        <activity
+            android:name="com.example.alarmexample70821.Intro_activity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.alarmexample70821.MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+
+        <receiver android:name="com.example.alarmexample70821.AlarmReceiver" >
+            <intent-filter>
+                <action android:name="com.example.alarmexample70821.AlarmReceiver" >
+                </action>
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.example.alarmexample70821.MyServiceIntent"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="com.example.alarmexample70821.Service" >
+                </action>
+            </intent-filter>
+        </service>
+
+        <activity
+            android:name="com.example.alarmexample70821.SetTimePhone"
+            android:label="@string/title_activity_set_time_phone" >
+        </activity>
+
+        <provider
+            android:name="com.example.alarmexample70821.MyContentProvider"
+            android:authorities="com.client.logininfo.user2" >
+        </provider>
+    </application>
+
+</manifest>

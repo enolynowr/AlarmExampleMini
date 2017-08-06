@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:2:1-62:12
+	package
+		ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:20.0.0] C:\Users\LG Electronics\.android\build-cache\6e2994a47544312ac77bc9a368cdb0bae14022ba\output\AndroidManifest.xml:16:5-42
+	android:targetSdkVersion
+		ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:11:5-69
+	android:name
+		ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:11:22-66
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:12:5-72
+	android:name
+		ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:12:22-69
+application
+ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:14:5-60:19
+MERGED from [com.android.support:support-v4:20.0.0] C:\Users\LG Electronics\.android\build-cache\6e2994a47544312ac77bc9a368cdb0bae14022ba\output\AndroidManifest.xml:17:5-19
+	android:label
+		ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:17:9-41
+	android:allowBackup
+		ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:16:9-45
+	android:theme
+		ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.example.alarmexample70821.Intro_activity
+ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:label
+		ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:22:13-72
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.example.alarmexample70821.MainActivity
+ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:30:9-33:20
+	android:label
+		ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:31:13-70
+receiver#com.example.alarmexample70821.AlarmReceiver
+ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:35:9-40:20
+	android:name
+		ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:35:19-48
+intent-filter#com.example.alarmexample70821.AlarmReceiver
+ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:36:13-39:29
+action#com.example.alarmexample70821.AlarmReceiver
+ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:37:17-38:26
+	android:name
+		ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:37:25-83
+service#com.example.alarmexample70821.MyServiceIntent
+ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:42:9-49:19
+	android:enabled
+		ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:44:13-35
+	android:name
+		ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:43:13-44
+intent-filter#com.example.alarmexample70821.Service
+ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:45:13-48:29
+action#com.example.alarmexample70821.Service
+ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:46:17-47:26
+	android:name
+		ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:46:25-77
+activity#com.example.alarmexample70821.SetTimePhone
+ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:51:9-54:20
+	android:label
+		ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:53:13-66
+	android:name
+		ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:52:13-41
+provider#com.example.alarmexample70821.MyContentProvider
+ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:56:9-59:20
+	android:authorities
+		ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:58:13-61
+	android:name
+		ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:57:13-45

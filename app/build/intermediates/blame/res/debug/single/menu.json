@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Develop\\App\\workSpaceApp\\AlarmExample70825\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Develop\\App\\workSpaceApp\\AlarmExample70825\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Develop\\App\\workSpaceApp\\AlarmExample70825\\app\\build\\intermediates\\res\\merged\\debug\\menu\\call.xml",
+        "source": "C:\\Develop\\App\\workSpaceApp\\AlarmExample70825\\app\\src\\main\\res\\menu\\call.xml"
+    },
+    {
+        "merged": "C:\\Develop\\App\\workSpaceApp\\AlarmExample70825\\app\\build\\intermediates\\res\\merged\\debug\\menu\\set_time_phone.xml",
+        "source": "C:\\Develop\\App\\workSpaceApp\\AlarmExample70825\\app\\src\\main\\res\\menu\\set_time_phone.xml"
+    },
+    {
+        "merged": "C:\\Develop\\App\\workSpaceApp\\AlarmExample70825\\app\\build\\intermediates\\res\\merged\\debug\\menu\\alarm.xml",
+        "source": "C:\\Develop\\App\\workSpaceApp\\AlarmExample70825\\app\\src\\main\\res\\menu\\alarm.xml"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Develop\\App\\workSpaceApp\\AlarmExample70825\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\set_service_bg.xml",
+        "source": "C:\\Develop\\App\\workSpaceApp\\AlarmExample70825\\app\\src\\main\\res\\drawable-xhdpi\\set_service_bg.xml"
+    },
+    {
+        "merged": "C:\\Develop\\App\\workSpaceApp\\AlarmExample70825\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\set_time_bg.xml",
+        "source": "C:\\Develop\\App\\workSpaceApp\\AlarmExample70825\\app\\src\\main\\res\\drawable-xhdpi\\set_time_bg.xml"
+    },
+    {
+        "merged": "C:\\Develop\\App\\workSpaceApp\\AlarmExample70825\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\stop_bg.xml",
+        "source": "C:\\Develop\\App\\workSpaceApp\\AlarmExample70825\\app\\src\\main\\res\\drawable-xhdpi\\stop_bg.xml"
+    },
+    {
+        "merged": "C:\\Develop\\App\\workSpaceApp\\AlarmExample70825\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\view_phone_bg.xml",
+        "source": "C:\\Develop\\App\\workSpaceApp\\AlarmExample70825\\app\\src\\main\\res\\drawable-xhdpi\\view_phone_bg.xml"
+    },
+    {
+        "merged": "C:\\Develop\\App\\workSpaceApp\\AlarmExample70825\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\set_phone_bg.xml",
+        "source": "C:\\Develop\\App\\workSpaceApp\\AlarmExample70825\\app\\src\\main\\res\\drawable-xhdpi\\set_phone_bg.xml"
+    },
+    {
+        "merged": "C:\\Develop\\App\\workSpaceApp\\AlarmExample70825\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\view_time_bg.xml",
+        "source": "C:\\Develop\\App\\workSpaceApp\\AlarmExample70825\\app\\src\\main\\res\\drawable-xhdpi\\view_time_bg.xml"
+    },
+    {
+        "merged": "C:\\Develop\\App\\workSpaceApp\\AlarmExample70825\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\start_bg.xml",
+        "source": "C:\\Develop\\App\\workSpaceApp\\AlarmExample70825\\app\\src\\main\\res\\drawable-xhdpi\\start_bg.xml"
+    }
+]

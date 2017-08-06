@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="support-v4-20.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/6e2994a47544312ac77bc9a368cdb0bae14022ba/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/6e2994a47544312ac77bc9a368cdb0bae14022ba/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/6e2994a47544312ac77bc9a368cdb0bae14022ba/output/jars/libs/internal_impl-20.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/20.0.0/support-v4-20.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

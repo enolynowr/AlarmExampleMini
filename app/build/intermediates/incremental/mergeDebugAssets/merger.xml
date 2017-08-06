@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\LG Electronics\.android\build-cache\6e2994a47544312ac77bc9a368cdb0bae14022ba\output\assets"/></dataSet><dataSet config="main"><source path="C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\assets"/><source path="C:\Develop\App\workSpaceApp\AlarmExample70825\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\debug\assets"/></dataSet></merger>
