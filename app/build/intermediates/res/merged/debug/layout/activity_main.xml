@@ -83,7 +83,7 @@
         android:layout_height="wrap_content"
         android:layout_above="@+id/service_btngroup"
         android:background="@drawable/set_service_bg"
-        android:drawableLeft="@drawable/minion3"
+        android:drawableLeft="@drawable/ic_pets_black_48dp"
         android:drawablePadding="-100dp"
         android:text="설정 변경" />
 

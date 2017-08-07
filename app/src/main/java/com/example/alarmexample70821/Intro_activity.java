@@ -21,7 +21,7 @@ public class Intro_activity extends Activity {
         
         // GIF 이미지 뷰
         final GifMovieView gif1 = (GifMovieView) findViewById(R.id.gif1);
-		gif1.setMovieResource(R.drawable.gif_intro_500);
+		gif1.setMovieResource(R.drawable.lion);
              
         h= new Handler(); //딜래이를 주기 위해 핸들러 생성
         h.postDelayed(mrun, 2000); // 딜레이 ( 런어블 객체는 mrun, 시간 2초)

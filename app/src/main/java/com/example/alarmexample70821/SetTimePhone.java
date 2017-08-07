@@ -54,6 +54,9 @@ public class SetTimePhone extends Activity {
 				try {
 					writeDB(UserData.u_set_time, UserData.u_phone_number,
 							UserData.u_name);
+
+					Intent moveMainAct = new Intent(SetTimePhone.this, MainActivity.class);
+					startActivity(moveMainAct);
 				} catch (Exception e) {
 					// TODO Auto-generated catch block
 					e.printStackTrace();

@@ -42,7 +42,7 @@ MERGED from [com.android.support:support-v4:20.0.0] C:\Users\LG Electronics\.and
 	android:allowBackup
 		ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:15:9-35
 	android:icon
-		ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:16:9-45
+		ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:16:9-59
 	android:theme
 		ADDED from C:\Develop\App\workSpaceApp\AlarmExample70825\app\src\main\AndroidManifest.xml:18:9-40
 activity#com.example.alarmexample70821.Intro_activity
